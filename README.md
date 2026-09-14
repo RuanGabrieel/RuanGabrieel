@@ -3,6 +3,7 @@
 
 
 ## 🚀 About Me
+
 🎓 Graduando em Ciência da Computação
 💻 Interessado em Desenvolvimento Back-end e Full Stack
 📚 Atualmente estudando e aprimorando meus conhecimentos...
